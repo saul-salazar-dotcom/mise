@@ -1,5 +1,21 @@
 # Changelog
 
+## [2024.10.9](https://github.com/jdx/mise/compare/v2024.10.8..v2024.10.9) - 2024-10-23
+
+### 🚀 Features
+
+- add argc plugin to registry by [@rgeraskin](https://github.com/rgeraskin) in [#2790](https://github.com/jdx/mise/pull/2790)
+- update markdownlint-cli2 in registry to use the npm backend by [@BurnerWah](https://github.com/BurnerWah) in [#2794](https://github.com/jdx/mise/pull/2794)
+
+### 📦️ Dependency Updates
+
+- update dependency vitepress to v1.4.1 by [@renovate[bot]](https://github.com/renovate[bot]) in [#2780](https://github.com/jdx/mise/pull/2780)
+
+### New Contributors
+
+- @BurnerWah made their first contribution in [#2794](https://github.com/jdx/mise/pull/2794)
+- @rgeraskin made their first contribution in [#2790](https://github.com/jdx/mise/pull/2790)
+
 ## [2024.10.8](https://github.com/jdx/mise/compare/v2024.10.7..v2024.10.8) - 2024-10-22
 
 ### 🚀 Features
